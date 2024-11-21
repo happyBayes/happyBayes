@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![happyBayes's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyBayes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyBayes)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=happyBayes&left_color=green&right_color=red) <!-- 页面被访问次数-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=happyBayes) <!--提交天数 -->
